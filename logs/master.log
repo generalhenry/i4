@@ -1,0 +1,83 @@
+[Fri, 18 Feb 2011 23:00:04 GMT] INFO master started
+[Fri, 18 Feb 2011 23:00:04 GMT] INFO spawned worker 0
+[Fri, 18 Feb 2011 23:00:04 GMT] INFO spawned worker 1
+[Fri, 18 Feb 2011 23:00:04 GMT] INFO spawned worker 2
+[Fri, 18 Feb 2011 23:00:04 GMT] INFO spawned worker 3
+[Fri, 18 Feb 2011 23:00:04 GMT] ERROR worker 0 died
+[Fri, 18 Feb 2011 23:00:04 GMT] INFO spawned worker 0
+[Fri, 18 Feb 2011 23:00:04 GMT] ERROR worker 3 died
+[Fri, 18 Feb 2011 23:00:04 GMT] INFO spawned worker 3
+[Fri, 18 Feb 2011 23:00:05 GMT] ERROR worker 1 died
+[Fri, 18 Feb 2011 23:00:05 GMT] INFO spawned worker 1
+[Fri, 18 Feb 2011 23:00:12 GMT] INFO repl connection from 38.112.59.82
+[Fri, 18 Feb 2011 23:00:27 GMT] INFO repl disconnect from 38.112.59.82
+[Fri, 18 Feb 2011 23:00:34 GMT] INFO repl connection from 38.112.59.82
+[Fri, 18 Feb 2011 23:00:34 GMT] INFO repl connection from 38.112.59.82
+[Fri, 18 Feb 2011 23:01:25 GMT] INFO repl disconnect from 38.112.59.82
+[Fri, 18 Feb 2011 23:01:40 GMT] INFO repl disconnect from 38.112.59.82
+[Fri, 18 Feb 2011 23:02:54 GMT] INFO repl connection from 38.112.59.82
+[Fri, 18 Feb 2011 23:03:20 GMT] WARNING shutting down master
+[Fri, 18 Feb 2011 23:03:27 GMT] INFO master started
+[Fri, 18 Feb 2011 23:03:27 GMT] INFO spawned worker 0
+[Fri, 18 Feb 2011 23:03:27 GMT] INFO spawned worker 1
+[Fri, 18 Feb 2011 23:03:27 GMT] INFO spawned worker 2
+[Fri, 18 Feb 2011 23:03:27 GMT] INFO spawned worker 3
+[Fri, 18 Feb 2011 23:03:27 GMT] ERROR worker 3 died
+[Fri, 18 Feb 2011 23:03:27 GMT] INFO spawned worker 3
+[Fri, 18 Feb 2011 23:03:27 GMT] ERROR worker 1 died
+[Fri, 18 Feb 2011 23:03:27 GMT] INFO spawned worker 1
+[Fri, 18 Feb 2011 23:03:27 GMT] ERROR worker 2 died
+[Fri, 18 Feb 2011 23:03:27 GMT] INFO spawned worker 2
+[Fri, 18 Feb 2011 23:03:27 GMT] ERROR worker 0 died
+[Fri, 18 Feb 2011 23:03:27 GMT] INFO spawned worker 0
+[Fri, 18 Feb 2011 23:08:51 GMT] WARNING shutting down master
+[Fri, 18 Feb 2011 23:08:51 GMT] WARNING sent kill(SIGKILL) to all workers
+[Fri, 18 Feb 2011 23:09:06 GMT] INFO master started
+[Fri, 18 Feb 2011 23:09:06 GMT] INFO spawned worker 0
+[Fri, 18 Feb 2011 23:09:06 GMT] INFO spawned worker 1
+[Fri, 18 Feb 2011 23:09:06 GMT] INFO spawned worker 2
+[Fri, 18 Feb 2011 23:09:06 GMT] INFO spawned worker 3
+[Fri, 18 Feb 2011 23:09:06 GMT] ERROR worker 1 died
+[Fri, 18 Feb 2011 23:09:06 GMT] INFO spawned worker 1
+[Fri, 18 Feb 2011 23:09:06 GMT] ERROR worker 2 died
+[Fri, 18 Feb 2011 23:09:06 GMT] INFO spawned worker 2
+[Fri, 18 Feb 2011 23:09:06 GMT] ERROR worker 0 died
+[Fri, 18 Feb 2011 23:09:07 GMT] INFO spawned worker 0
+[Fri, 18 Feb 2011 23:13:38 GMT] INFO restart requested
+[Fri, 18 Feb 2011 23:13:39 GMT] INFO master started
+[Fri, 18 Feb 2011 23:13:39 GMT] INFO spawned worker 0
+[Fri, 18 Feb 2011 23:13:39 GMT] INFO spawned worker 1
+[Fri, 18 Feb 2011 23:13:39 GMT] INFO spawned worker 2
+[Fri, 18 Feb 2011 23:13:39 GMT] INFO spawned worker 3
+[Fri, 18 Feb 2011 23:13:39 GMT] WARNING shutting down master
+[Fri, 18 Feb 2011 23:13:39 GMT] WARNING sent kill(SIGKILL) to all workers
+[Fri, 18 Feb 2011 23:13:39 GMT] INFO restart complete
+[Fri, 18 Feb 2011 23:13:59 GMT] INFO restart requested
+[Fri, 18 Feb 2011 23:13:59 GMT] INFO master started
+[Fri, 18 Feb 2011 23:13:59 GMT] INFO spawned worker 0
+[Fri, 18 Feb 2011 23:13:59 GMT] INFO spawned worker 1
+[Fri, 18 Feb 2011 23:13:59 GMT] INFO spawned worker 2
+[Fri, 18 Feb 2011 23:13:59 GMT] INFO spawned worker 3
+[Fri, 18 Feb 2011 23:13:59 GMT] WARNING shutting down master
+[Fri, 18 Feb 2011 23:13:59 GMT] WARNING sent kill(SIGKILL) to all workers
+[Fri, 18 Feb 2011 23:13:59 GMT] INFO restart complete
+[Fri, 18 Feb 2011 23:14:32 GMT] INFO restart requested
+[Fri, 18 Feb 2011 23:14:32 GMT] INFO master started
+[Fri, 18 Feb 2011 23:14:32 GMT] INFO spawned worker 0
+[Fri, 18 Feb 2011 23:14:32 GMT] INFO spawned worker 1
+[Fri, 18 Feb 2011 23:14:32 GMT] INFO spawned worker 2
+[Fri, 18 Feb 2011 23:14:32 GMT] INFO spawned worker 3
+[Fri, 18 Feb 2011 23:14:32 GMT] WARNING shutting down master
+[Fri, 18 Feb 2011 23:14:32 GMT] WARNING sent kill(SIGKILL) to all workers
+[Fri, 18 Feb 2011 23:14:32 GMT] INFO shutdown complete
+[Fri, 18 Feb 2011 23:14:32 GMT] INFO restart complete
+[Fri, 18 Feb 2011 23:14:42 GMT] INFO restart requested
+[Fri, 18 Feb 2011 23:14:42 GMT] INFO master started
+[Fri, 18 Feb 2011 23:14:42 GMT] INFO spawned worker 0
+[Fri, 18 Feb 2011 23:14:42 GMT] INFO spawned worker 1
+[Fri, 18 Feb 2011 23:14:42 GMT] INFO spawned worker 2
+[Fri, 18 Feb 2011 23:14:42 GMT] INFO spawned worker 3
+[Fri, 18 Feb 2011 23:14:43 GMT] WARNING shutting down master
+[Fri, 18 Feb 2011 23:14:43 GMT] WARNING sent kill(SIGKILL) to all workers
+[Fri, 18 Feb 2011 23:14:43 GMT] INFO restart complete
+[Fri, 18 Feb 2011 23:21:52 GMT] INFO master started

@@ -1,0 +1,49 @@
+:stylus
+  | #main
+  |   max-width none 
+  |   width 90%
+  |   margin-left 5% 
+  |   margin-right 5%
+  | .menuicon 
+  |   width 23%
+  |   margin 1%
+  |   cursor pointer
+img.menuicon(alt='additionandsubtraction',src='http://mathcoach.net/Interactive/Interactive3/media/branding/icons/additionandsubtraction.png')
+img.menuicon(alt='algebraicthinking',src='http://mathcoach.net/Interactive/Interactive3/media/branding/icons/algebraicthinking.png')
+img.menuicon(alt='decimals',src='http://mathcoach.net/Interactive/Interactive3/media/branding/icons/decimals.png')
+img.menuicon(alt='division',src='http://mathcoach.net/Interactive/Interactive3/media/branding/icons/division.png')
+img.menuicon(alt='factorsandmultiples',src='http://mathcoach.net/Interactive/Interactive3/media/branding/icons/factorsandmultiples.png')
+img.menuicon(alt='fractions',src='http://mathcoach.net/Interactive/Interactive3/media/branding/icons/fractions.png')
+img.menuicon(alt='multiplicationbasicfacts',src='http://mathcoach.net/Interactive/Interactive3/media/branding/icons/multiplicationbasicfactsV2.png')
+img.menuicon(alt='percent',src='http://mathcoach.net/Interactive/Interactive3/media/branding/icons/percent.png')
+img.menuicon(alt='placevalue',src='http://mathcoach.net/Interactive/Interactive3/media/branding/icons/placevalue.png')
+img.menuicon(alt='rounding',src='http://mathcoach.net/Interactive/Interactive3/media/branding/icons/rounding.png')
+img.menuicon(alt='spiralreview',src='http://mathcoach.net/Interactive/Interactive3/media/branding/icons/spiralreview.png')
+script
+  $('.menuicon').click(function() {
+    var width = $('body').width() * 0.9;
+    var height = $('body').height() * 0.9;
+    var text = '';
+    if($(this).attr('alt') == 'additionandsubtraction')
+    {
+      text = '<a href="/factfam">Fact Families</a>';
+    }
+    if($(this).attr('alt') == 'fractions')
+    {
+      text = '<a href="/equivfrac">Equivlent Fractions</a>';
+    }
+    $('#dialog-message').html(text).dialog({
+      modal: true,
+      title: $(this).attr('alt'),
+      maxWidth: ~~width,
+      maxHeight: ~~height,
+      minWidth: ~~(width / 2),
+      minHeight: ~~(height / 2),
+      buttons: {
+        Back: function() {
+          $(this).dialog('close');
+        }
+      }
+    });
+  });
+

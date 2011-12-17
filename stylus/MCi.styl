@@ -1,0 +1,609 @@
+//Primary
+MCiPink = #E3004F
+MCiDarkGreen = #17D92E
+MCiDarkBlue = #2230D3
+MCiLightGreen = #73EC5A
+MCiLightBlue = #537BE3
+
+//Secondary
+MCiPurple = #3D0093
+MCiOrange = #FF5B00
+MCiYellow = #E0E43B
+MCiMediumGray = #666677
+MCiMediumGrey = MCiMediumGray
+MCiDarkGray = #33333D
+MCiDarkGrey = MCiDarkGray
+
+//Tertiary
+MCiPaleBlue = #C5DFFF
+MCiPaleGray = #eee
+MCiPaleGrey = MCiPaleGray
+MCiLightGray = #9999AA
+MCiLightGrey = MCiLightGray
+MCiOffWhite = #F2F2F2
+MCiWhite = #FAFAFA
+
+//doodads
+buttony(color)
+  background-color color
+  gradient rgba(color,0.3) rgba(color,0.7)
+  box-shadow inset 0 0 5px 0 rgba(color, 0.8)
+  cursor pointer
+  &:hover
+    gradient rgba(color,0.2) rgba(color,0.6)
+    box-shadow inset 0 0 5px 0 rgba(color, 0.7)
+  &:active
+    gradient rgba(color,0.1) rgba(color,0.5)
+    box-shadow inset 0 0 5px 0 rgba(color, 0.6)
+
+buttonyy(color)
+  background-color color
+  gradient rgba(color,0.7) rgba(color,0.9)
+  box-shadow inset 0 0 5px 0 rgba(color, 0.8)
+  cursor pointer
+  &:hover
+    gradient rgba(color,0.6) rgba(color,0.8)
+    box-shadow inset 0 0 5px 0 rgba(color, 0.7)
+  &:active
+    gradient rgba(color,0.5) rgba(color,0.7)
+    box-shadow inset 0 0 5px 0 rgba(color, 0.6)
+  
+//fonts
+@font-face 
+  font-family 'Schoolbell'
+  font-style normal
+  font-weight normal
+  src local('Schoolbell'), url('http://themes.googleusercontent.com/font?kit=BSqn7FernLolrt-MFco9Wi3USBnSvpkopQaUR-2r7iU') format('truetype')
+
+@font-face
+  font-family 'Sunshiney'
+  font-style normal
+  font-weight normal
+  src local('Sunshiney'), url('http://themes.googleusercontent.com/font?kit=Qyy6HDeMPsv9ES6PzMFxeKCWcynf_cDxXwCLxiixG1c') format('truetype')
+
+@font-face
+  font-family 'Maiden Orange'
+  font-style normal
+  font-weight normal
+  src local('Maiden Orange'), local('MaidenOrange-Regular'), url('http://themes.googleusercontent.com/font?kit=ZhKIA2SPisEwdhW7g0RUWibsRidxnYrfzLNRqJkHfFo') format('truetype')
+
+@font-face
+  font-family 'Cherry Cream Soda'
+  font-style normal
+  font-weight normal
+  src local('Cherry Cream Soda'), local('CherryCreamSoda'), url('http://themes.googleusercontent.com/font?kit=OrD-AUnFcZeeKa6F_c0_W7qBN36jQhVLTmQ9NDizP_4') format('truetype')
+
+//elements
+h1
+  font-size 1.2em
+
+h2
+  font-size 1.1em
+
+h3
+  font-size 1.05em
+
+a 
+  text-decoration none
+  cursor pointer
+  &:hover 
+    color MCiOrange
+    text-decoration underline
+
+button, input, select, textarea
+  border-radius 3px
+  cursor pointer
+
+button, input[type=submit]
+  gradient MCiLightBlue MCiDarkBlue
+  color MCiWhite
+  text-shadow 0 0 1px MCiDarkBlue
+  border 1px solid MCiDarkBlue
+  font-weight bold !important
+  box-shadow inset 0 0 2px 0 rgba(MCiDarkBlue, 0.8)
+  padding 3px
+  &:hover
+    gradient MCiPaleBlue MCiLightBlue
+    color MCiDarkGray
+    text-shadow 0 0 1px MCiWhite
+  &:active
+    gradient MCiOffWhite MCiPaleBlue
+    color MCiDarkGray
+    text-shadow 0 0 1px MCiWhite
+
+.fraction  
+  font-weight bold
+  text-align  center 
+  vertical-align  middle
+  display inline-block
+  padding 3px !important
+  div 
+    text-align center
+    padding 0px !important
+  .upper_line  
+    border-top solid 1px MCiDarkGrey
+
+.center 
+  text-align center
+    
+//sections
+body
+  margin 0
+  padding 0
+  background-color MCiPaleBlue
+  background-image url(/images/background_3transcircles.png)
+  background-repeat no-repeat
+  background-position -105px 0px
+  color MCiDarkGray
+  font-family 'Lato', Helvetica, Arial, sans-serif
+
+#container
+  display block
+  position absolute
+  min-height 100%
+  min-width 100%
+
+#head 
+  max-height 45px
+  background-color MCiLightBlue
+  overflow hidden
+  font-weight bold
+  color MCiOffWhite
+  img 
+    height 100%
+  #headcontent 
+    display none
+    max-width 800px
+    margin-right auto
+    margin-left auto
+    .tbleft, .tbright 
+      margin-top 5px
+      margin-bottom 5px
+      padding-left 5px
+      padding-right 5px
+      height 35px
+      cursor pointer
+    .tbleft 
+      float left
+    .tbright 
+      float right
+      border-left 2px solid MCiOffWhite
+    a.tbright 
+      min-width 100px
+    #login.active
+      background-color rgba(MCiDarkBlue, 0.95)
+      position relative
+      z-index 900
+    #login.login
+      #loginstatuslogout
+        display none
+    #login.logout
+      #loginstatuslogin
+        display none
+    #home 
+      a 
+        color MCiOffWhite
+
+#subheader
+  max-width 800px
+  position relative
+  margin-left auto
+  margin-right auto    
+  #loginbox
+    display none
+    font-size 2em
+    position absolute 
+    z-index 1000
+    top -8px
+    right 0px
+    border-radius 5px
+    padding 15px
+    padding-bottom 5px
+    background-color rgba(MCiDarkBlue, 0.95)
+    text-shadow 0 1px 1px white
+    box-shadow 0 1px 4px rgba(0, 0, 0, 0.3)
+    #loginform
+      border-radius 5px 
+      padding 6px
+      background-color MCiPaleBlue 
+      p
+        padding 2px
+      label
+        display block
+      input
+         border-radius 6px
+        
+#main
+  display none
+  margin-right 5%
+  margin-left 5%
+  position relative
+  background-color MCiWhite
+  padding-bottom 10px
+  border-radius 0px 0px 14px 14px
+  margin-bottom 60px
+  #content
+    #notepad
+      overflow hidden
+
+#foot
+  height 60px
+  position absolute
+  bottom 0px
+  min-width 100%
+  #footcontent
+    display none
+    max-width 800px
+    color MCiLightGray
+    font-size 0.8em
+    margin-left auto
+    margin-right auto
+    #bugInfo, #dialog-message, #dialog-report, #dialog-settings, #strategy_textarea 
+      display none
+    #footinfo
+      float left
+      #standards 
+        img 
+          float left
+        div 
+          padding-left 30px
+      #copyright 
+        margin-top 5px
+    #logos
+      float left
+      height 41px
+      overflow hidden
+#loading
+  position fixed
+  z-index 100000000
+  top 50%
+  left 50%
+  margin -21px;
+
+#social
+  cursor pointer
+  position fixed
+  z-index 100000000
+  bottom 0
+  right 3%
+  gradient MCiLightGreen MCiDarkGreen
+  color MCiWhite
+  text-shadow 0 0 1px MCiDarkGreen
+  border 1px solid MCiDarkGreen
+  box-shadow inset 0 0 2px 0 rgba(MCiDarkGreen, 0.8)
+  border-radius 2px
+  padding 5px
+  width 80px
+  height 20px
+  &:hover
+    gradient MCiPaleBlue MCiLightGreen
+    color MCiDarkGray
+    text-shadow 0 0 1px MCiWhite
+  &:active
+    gradient MCiOffWhite MCiPaleBlue
+    color MCiDarkGray
+    text-shadow 0 0 1px MCiWhite
+  #chatcount
+    &:before
+      content 'chat ('
+    &:after
+      content ')'
+  #chatwindow
+    display none
+    position fixed
+    z-index 100000000
+    bottom 30px
+    right 3%
+    width 80px
+    gradient MCiDarkGreen MCiLightGreen
+    border 1px solid MCiDarkGreen
+    box-shadow inset 0 0 2px 0 rgba(MCiDarkGreen, 0.8)
+    border-radius 2px
+    padding 5px
+    
+#dialog-report
+  .header
+    .activity
+      float left
+    .date
+      float right
+    .score
+      clear both
+      border-radius 4px
+      padding 2px
+      border 1px solid MCiOffWhite 
+      buttony MCiLightBlue
+  tr
+    border-radius 4px
+    padding 2px
+    border 1px solid MCiOffWhite 
+    text-shadow 0px 1px 1px rgba(MCiOffWhite,0.5)
+    &.correct 
+      td
+        buttony MCiLightGreen
+    &.incorrect
+      td
+        buttony MCiPink
+    td,th
+      text-align center
+      vertical-align middle
+      border 1px solid MCiOffWhite 
+      padding 3px
+      border-radius 4px
+    th
+      buttony MCiLightBlue
+    td
+      .blank
+        buttony MCiOffWhite
+        width 1em
+        display inline-block
+        border-radius 3px
+  
+//toast!
+.toast-container 
+  width 280px
+  z-index 9999
+
+* html .toast-container
+  position absolute
+
+.toast-item
+  height auto
+  background MCiDarkGray
+  opacity 0.9
+  border-radius 10px
+  color MCiPaleGray
+  padding-top 20px
+  padding-bottom 20px
+  padding-left 6px
+  padding-right 6px
+  font-family 'lucida Grande', Helvetica, Arial, sans-serif
+  font-size 14px
+  border 2px solid MCiLightGrey
+  display block
+  position relative
+  margin 0 0 12px 0
+
+.toast-item p 
+  text-align left
+  margin-left 50px
+
+.toast-item-close 
+  background url(../images/close.gif)
+  width 22px
+  height 22px
+  float right
+  top 7px
+  right 7px
+
+.toast-item-image 
+  width 32px
+  height 32px
+  margin-left 10px
+  margin-top -5px
+  margin-right 10px
+  float left
+
+.toast-item-image-notice 
+  background url(../images/notice.png)
+
+.toast-item-image-success 
+  background url(../images/success.png)
+
+.toast-item-image-warning 
+  background url(../images/warning.png)
+
+.toast-item-image-error 
+  background url(../images/error.png)
+
+.toast-type-notice 
+  color white    
+
+.toast-type-success 
+  color white    
+
+.toast-type-warning 
+  color white
+  border-color MCiOrange
+
+.toast-type-error 
+  color white
+  border-color MCiPink
+
+.toast-position-top-right 
+  position fixed
+  top 20px
+  right 20px
+
+.toast-position-center 
+  position absolute
+  left 50%
+  margin-left -140px
+  margin-top -40px
+  top 50%
+
+.toast-position-middle-bottom 
+  position absolute
+  left 50%
+  margin-left -140px
+  margin-top -40px
+  top 75%
+
+//jquery ui
+.ui-dialog
+  textarea
+    width 90% !important
+    margin-left auto
+    margin-right auto
+
+.ui-widget-header
+  text-shadow 0px 1px 1px rgba(MCiOffWhite,0.5)
+
+//svg?
+svg
+  text
+    text-shadow 0px 1px 1px rgba(MCiOffWhite,0.5)
+
+  
+//fact fam!
+#notepad
+  margin-left:auto;
+  margin-right:auto;
+
+tenframesquare = 14px
+
+
+#clouds
+  float right
+  padding 3px
+  border 3px solid MCiDarkGray
+  border-radius 12px
+  font-size 1.5em
+  background-color MCiOffWhite
+  background-color rgba(MCiOffWhite,0.7)
+  box-shadow inset 0 0 5px 0 rgba(MCiDarkBlue, 0.9)
+  text-shadow 0px 1px 1px rgba(MCiOffWhite,0.5)
+  font-weight bold
+  display table
+  height auto
+  width auto
+  .box
+    float left
+    margin 7px
+    border 1px solid MCiDarkGray
+    border-radius 10px
+    padding 3px
+    padding-top 5px
+    buttony MCiPaleBlue
+    &.correct 
+      buttonyy MCiDarkGreen
+    &.incorrect 
+      buttonyy MCiPink
+    div 
+      float left
+      margin 1px
+    .model 
+      float none
+      margin-left auto
+      margin-right auto
+      .group 
+        float none
+        border 2px solid MCiDarkGray
+        height 10px
+        margin-left auto
+        margin-right auto
+      .block
+        border 1px solid MCiDarkGray
+        height 6px
+        width 6px
+        background-color MCiMediumGray
+    .blank 
+      text-align center
+      height tenframesquare * 5
+      width tenframesquare * 2
+      margin 2px
+      border 1px solid MCiDarkGray
+      border-radius 4px
+      background-color MCiOffWhite
+    .operator 
+      margin-top tenframesquare * 2
+      height tenframesquare * 3
+    .number 
+      height  1em
+      margin 3px
+      margin-bottom 8px
+      &.blank 
+        padding 0px
+        min-height 1em
+        margin 2px
+        margin-bottom 7px
+        padding-bottom 4px
+    .fix 
+      height 1em
+      text-align center
+      width tenframesquare * 2
+      
+#clouds .box div.tenframe, #clouds .box div.subframe, #selectbar div.tenframe
+  float left
+  height tenframesquare * 5
+  width tenframesquare * 2
+  margin 3px
+  div
+    margin 0px
+    height 20%
+    width 50%
+    float right
+
+div.tenframe 
+  position relative
+  z-index 1
+  //background-image  url('http://mathcoach.net/Interactive/Interactive3/media/tenframe/dot0s.png')
+  img
+    position absolute
+    top 0px
+    left 0px
+    height 100%
+    width 100%
+  img.tenframe
+    z-index 2
+  img.full
+    z-index -1
+  &.full 
+    img.full
+      z-index 3
+      //background-image  url('http://mathcoach.net/Interactive/Interactive3/media/tenframe/dot10s.png')
+  div.dot 
+    position relative
+    z-index 4
+    //background-image  url('http://mathcoach.net/Interactive/Interactive3/media/tenframe/singledots.png')
+  div.dash 
+    position relative
+    z-index 5
+    //background-image  url('http://mathcoach.net/Interactive/Interactive3/media/tenframe/singledashdots.png')
+  .hidden 
+    position relative
+    z-index -1
+    display none
+
+.subframe 
+  position relative
+  z-index 1
+  //background-image  url('http://mathcoach.net/Interactive/Interactive3/media/tenframe/sub0s.png')
+  background-color MCiWhite
+  border-radius 4px
+  img
+    position absolute
+    top 0px
+    left 0px
+    height 100%
+    width 100%
+  img.subframe
+    z-index 2
+  div.dash 
+    position relative
+    z-index 3
+    //background-image  url('http://mathcoach.net/Interactive/Interactive3/media/tenframe/singledashs.png')
+
+#clouds br
+  clear left
+  width 0px
+  font-size 0.001 em
+
+#selectbar
+  buttony MCiPaleBlue
+  border-radius 10px
+  margin-top 5px
+  float left;
+  display table
+  width 140px
+  .number 
+    buttony MCiWhite
+    border-radius 10px
+    margin 3px
+    text-align center
+    font-size 1.5em
+    width 40px
+    float left
+    &.highlight 
+      buttony MCiYellow
+      color MCiDarkGrey

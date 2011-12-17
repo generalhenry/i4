@@ -1,0 +1,1966 @@
+18 Feb 23:00:04 - socket.io ready - accepting connections
+18 Feb 23:00:04 - socket.io ready - accepting connections
+18 Feb 23:00:05 - socket.io ready - accepting connections
+18 Feb 23:00:05 - socket.io ready - accepting connections
+18 Feb 23:00:05 - socket.io ready - accepting connections
+18 Feb 23:00:05 - Initializing client with transport "websocket"
+18 Feb 23:00:05 - socket.io ready - accepting connections
+18 Feb 23:00:05 - Client 8400282773654908 connected
+18 Feb 23:00:05 - socket.io ready - accepting connections
+string!
+{ type: 'login',
+  user: 'Henry',
+  sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' }
+18 Feb 23:00:07 - Initializing client with transport "websocket"
+18 Feb 23:00:07 - Client 24923784844577312 connected
+string!
+18 Feb 23:00:07 - Initializing client with transport "websocket"
+18 Feb 23:00:07 - Client 3526191965211183 connected
+string!
+18 Feb 23:00:27 - Client 8400282773654908 disconnected
+18 Feb 23:00:28 - Initializing client with transport "websocket"
+18 Feb 23:00:28 - Client 7317887248937041 connected
+string!
+{ type: 'login',
+  user: 'Henry',
+  sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     lastactive: Fri, 18 Feb 2011 23:00:27 GMT },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     client: 
+      { listener: [Object],
+        options: [Object],
+        connections: 1,
+        _open: true,
+        _heartbeats: 15,
+        connected: true,
+        upgradeHead: <Buffer 4a 0f 7f cc fc df c9 5d>,
+        request: [Object],
+        response: undefined,
+        connection: [Object],
+        data: '',
+        sessionId: '7317887248937041',
+        handshaked: true,
+        _writeQueue: [],
+        _events: [Object],
+        _heartbeatInterval: [Object],
+        user: 'Henry',
+        _heartbeatTimeout: [Object] } },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+18 Feb 23:03:15 - Client 7317887248937041 disconnected
+18 Feb 23:03:17 - Initializing client with transport "websocket"
+18 Feb 23:03:17 - Client 9408246516250074 connected
+string!
+{ type: 'login',
+  user: 'Henry',
+  sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' }
+18 Feb 23:03:27 - socket.io ready - accepting connections
+18 Feb 23:03:27 - socket.io ready - accepting connections
+18 Feb 23:03:27 - socket.io ready - accepting connections
+18 Feb 23:03:27 - socket.io ready - accepting connections
+18 Feb 23:03:27 - socket.io ready - accepting connections
+18 Feb 23:03:27 - socket.io ready - accepting connections
+18 Feb 23:03:27 - socket.io ready - accepting connections
+18 Feb 23:03:27 - socket.io ready - accepting connections
+18 Feb 23:03:30 - Initializing client with transport "websocket"
+18 Feb 23:03:30 - Client 9017561150249094 connected
+string!
+18 Feb 23:03:30 - Initializing client with transport "websocket"
+18 Feb 23:03:30 - Client 3975071320310235 connected
+string!
+18 Feb 23:03:32 - Initializing client with transport "websocket"
+18 Feb 23:03:32 - Client 9091385244391859 connected
+string!
+{ type: 'login',
+  user: 'Henry',
+  sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     client: 
+      { listener: [Object],
+        options: [Object],
+        connections: 1,
+        _open: true,
+        _heartbeats: 17,
+        connected: true,
+        upgradeHead: <Buffer ab a3 92 45 07 fc 04 e3>,
+        request: [Object],
+        response: undefined,
+        connection: [Object],
+        data: '',
+        sessionId: '9091385244391859',
+        handshaked: true,
+        _writeQueue: [],
+        _events: [Object],
+        _heartbeatInterval: [Object],
+        user: 'Henry',
+        _heartbeatTimeout: [Object] } },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+18 Feb 23:09:06 - socket.io ready - accepting connections
+18 Feb 23:09:06 - socket.io ready - accepting connections
+18 Feb 23:09:06 - socket.io ready - accepting connections
+18 Feb 23:09:06 - socket.io ready - accepting connections
+18 Feb 23:09:07 - Initializing client with transport "websocket"
+18 Feb 23:09:07 - Client 23736970615573227 connected
+18 Feb 23:09:07 - socket.io ready - accepting connections
+18 Feb 23:09:07 - socket.io ready - accepting connections
+string!
+18 Feb 23:09:07 - socket.io ready - accepting connections
+18 Feb 23:09:10 - Initializing client with transport "websocket"
+18 Feb 23:09:10 - Client 43317521340213716 connected
+string!
+18 Feb 23:09:21 - Initializing client with transport "websocket"
+18 Feb 23:09:21 - Client 20197414490394294 connected
+string!
+{ type: 'login',
+  user: 'Henry',
+  sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     client: 
+      { listener: [Object],
+        options: [Object],
+        connections: 1,
+        _open: true,
+        _heartbeats: 16,
+        connected: true,
+        upgradeHead: <Buffer 4f 65 b5 62 4a ca 32 37>,
+        request: [Object],
+        response: undefined,
+        connection: [Object],
+        data: '',
+        sessionId: '20197414490394294',
+        handshaked: true,
+        _writeQueue: [],
+        _events: [Object],
+        _heartbeatInterval: [Object],
+        user: 'Henry',
+        _heartbeatTimeout: [Object] } },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+18 Feb 23:13:39 - socket.io ready - accepting connections
+18 Feb 23:13:39 - socket.io ready - accepting connections
+18 Feb 23:13:39 - socket.io ready - accepting connections
+18 Feb 23:13:39 - socket.io ready - accepting connections
+18 Feb 23:13:39 - Initializing client with transport "websocket"
+18 Feb 23:13:39 - Client 169818302616477 connected
+18 Feb 23:13:39 - Initializing client with transport "websocket"
+18 Feb 23:13:39 - Client 2385104028508067 connected
+string!
+18 Feb 23:13:40 - Initializing client with transport "websocket"
+18 Feb 23:13:40 - Client 5768678307067603 connected
+string!
+string!
+{ type: 'login',
+  user: 'Henry',
+  sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' }
+18 Feb 23:13:43 - Client 169818302616477 disconnected
+18 Feb 23:13:44 - Initializing client with transport "websocket"
+18 Feb 23:13:44 - Client 27157158334739506 connected
+string!
+{ type: 'login',
+  user: 'Henry',
+  sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' }
+18 Feb 23:13:49 - Client 27157158334739506 disconnected
+18 Feb 23:13:59 - socket.io ready - accepting connections
+18 Feb 23:13:59 - socket.io ready - accepting connections
+18 Feb 23:13:59 - socket.io ready - accepting connections
+18 Feb 23:13:59 - socket.io ready - accepting connections
+18 Feb 23:13:59 - Initializing client with transport "websocket"
+18 Feb 23:13:59 - Client 5458557163365185 connected
+string!
+18 Feb 23:14:00 - Initializing client with transport "websocket"
+18 Feb 23:14:00 - Client 8624871380161494 connected
+string!
+18 Feb 23:14:10 - Initializing client with transport "websocket"
+18 Feb 23:14:10 - Client 16680669295601547 connected
+string!
+{ type: 'login',
+  user: 'Henry',
+  sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' }
+18 Feb 23:14:32 - socket.io ready - accepting connections
+18 Feb 23:14:32 - socket.io ready - accepting connections
+18 Feb 23:14:32 - socket.io ready - accepting connections
+18 Feb 23:14:32 - socket.io ready - accepting connections
+18 Feb 23:14:33 - Initializing client with transport "websocket"
+18 Feb 23:14:33 - Client 6734178978949785 connected
+18 Feb 23:14:33 - Initializing client with transport "websocket"
+18 Feb 23:14:33 - Client 08462728816084564 connected
+18 Feb 23:14:33 - Initializing client with transport "websocket"
+18 Feb 23:14:33 - Client 8743462818674743 connected
+string!
+string!
+string!
+{ type: 'login',
+  user: 'Henry',
+  sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' }
+18 Feb 23:14:34 - Client 6734178978949785 disconnected
+18 Feb 23:14:35 - Initializing client with transport "websocket"
+18 Feb 23:14:35 - Client 9492255221121013 connected
+string!
+{ type: 'login',
+  user: 'Henry',
+  sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' }
+18 Feb 23:14:43 - socket.io ready - accepting connections
+18 Feb 23:14:43 - socket.io ready - accepting connections
+18 Feb 23:14:43 - socket.io ready - accepting connections
+18 Feb 23:14:43 - socket.io ready - accepting connections
+18 Feb 23:14:43 - Initializing client with transport "websocket"
+18 Feb 23:14:43 - Client 8909299203660339 connected
+18 Feb 23:14:43 - Initializing client with transport "websocket"
+18 Feb 23:14:43 - Client 18854833603836596 connected
+string!
+18 Feb 23:14:43 - Initializing client with transport "websocket"
+18 Feb 23:14:43 - Client 6215710176620632 connected
+string!
+string!
+{ type: 'login',
+  user: 'Henry',
+  sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     client: 
+      { listener: [Object],
+        options: [Object],
+        connections: 1,
+        _open: true,
+        _heartbeats: 17,
+        connected: true,
+        upgradeHead: <Buffer 8e 07 20 fd 85 34 34 ff>,
+        request: [Object],
+        response: undefined,
+        connection: [Object],
+        data: '',
+        sessionId: '8909299203660339',
+        handshaked: true,
+        _writeQueue: [],
+        _events: [Object],
+        _heartbeatInterval: [Object],
+        user: 'Henry',
+        _heartbeatTimeout: [Object] } },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     client: 
+      { listener: [Object],
+        options: [Object],
+        connections: 1,
+        _open: true,
+        _heartbeats: 34,
+        connected: true,
+        upgradeHead: <Buffer 8e 07 20 fd 85 34 34 ff>,
+        request: [Object],
+        response: undefined,
+        connection: [Object],
+        data: '',
+        sessionId: '8909299203660339',
+        handshaked: true,
+        _writeQueue: [],
+        _events: [Object],
+        _heartbeatInterval: [Object],
+        user: 'Henry',
+        _heartbeatTimeout: [Object] } },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     client: 
+      { listener: [Object],
+        options: [Object],
+        connections: 1,
+        _open: true,
+        _heartbeats: 52,
+        connected: true,
+        upgradeHead: <Buffer 8e 07 20 fd 85 34 34 ff>,
+        request: [Object],
+        response: undefined,
+        connection: [Object],
+        data: '',
+        sessionId: '8909299203660339',
+        handshaked: true,
+        _writeQueue: [],
+        _events: [Object],
+        _heartbeatInterval: [Object],
+        user: 'Henry',
+        _heartbeatTimeout: [Object] } },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     client: 
+      { listener: [Object],
+        options: [Object],
+        connections: 1,
+        _open: true,
+        _heartbeats: 69,
+        connected: true,
+        upgradeHead: <Buffer 8e 07 20 fd 85 34 34 ff>,
+        request: [Object],
+        response: undefined,
+        connection: [Object],
+        data: '',
+        sessionId: '8909299203660339',
+        handshaked: true,
+        _writeQueue: [],
+        _events: [Object],
+        _heartbeatInterval: [Object],
+        user: 'Henry',
+        _heartbeatTimeout: [Object] } },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+18 Feb 23:27:51 - Client 8909299203660339 disconnected
+18 Feb 23:27:53 - Initializing client with transport "websocket"
+18 Feb 23:27:53 - Client 9578580218367279 connected
+string!
+{ type: 'login',
+  user: 'Henry',
+  sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' }
+{ type: 'factfamreport' }
+{ type: 'factfam',
+  correct: true,
+  index: 2,
+  current: 6,
+  value: 6 }
+{ type: 'factfam',
+  correct: true,
+  index: 3,
+  current: 6,
+  value: 6 }
+{ type: 'factfam',
+  correct: false,
+  index: 6,
+  current: 6,
+  value: 7 }
+{ type: 'factfam',
+  correct: true,
+  index: 6,
+  current: 7,
+  value: 7 }
+{ type: 'factfamreport' }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     lastactive: Fri, 18 Feb 2011 23:27:51 GMT },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     client: 
+      { listener: [Object],
+        options: [Object],
+        connections: 1,
+        _open: true,
+        _heartbeats: 10,
+        connected: true,
+        upgradeHead: <Buffer d7 47 b0 cd 8c f1 b7 e1>,
+        request: [Object],
+        response: undefined,
+        connection: [Object],
+        data: '',
+        sessionId: '9578580218367279',
+        handshaked: true,
+        _writeQueue: [],
+        _events: [Object],
+        _heartbeatInterval: [Object],
+        user: 'Henry',
+        factfam: [Object],
+        _heartbeatTimeout: [Object] } },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     lastactive: Fri, 18 Feb 2011 23:27:51 GMT },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     client: 
+      { listener: [Object],
+        options: [Object],
+        connections: 1,
+        _open: true,
+        _heartbeats: 28,
+        connected: true,
+        upgradeHead: <Buffer d7 47 b0 cd 8c f1 b7 e1>,
+        request: [Object],
+        response: undefined,
+        connection: [Object],
+        data: '',
+        sessionId: '9578580218367279',
+        handshaked: true,
+        _writeQueue: [],
+        _events: [Object],
+        _heartbeatInterval: [Object],
+        user: 'Henry',
+        factfam: [Object],
+        _heartbeatTimeout: [Object] } },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     lastactive: Fri, 18 Feb 2011 23:27:51 GMT },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+All sessions are saved on disk now.
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     client: 
+      { listener: [Object],
+        options: [Object],
+        connections: 1,
+        _open: true,
+        _heartbeats: 45,
+        connected: true,
+        upgradeHead: <Buffer d7 47 b0 cd 8c f1 b7 e1>,
+        request: [Object],
+        response: undefined,
+        connection: [Object],
+        data: '',
+        sessionId: '9578580218367279',
+        handshaked: true,
+        _writeQueue: [],
+        _events: [Object],
+        _heartbeatInterval: [Object],
+        user: 'Henry',
+        factfam: [Object],
+        _heartbeatTimeout: [Object] } },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+18 Feb 23:37:27 - Client 9578580218367279 disconnected
+18 Feb 23:37:29 - Initializing client with transport "websocket"
+18 Feb 23:37:29 - Client 8648318229243159 connected
+string!
+{ type: 'login',
+  user: 'Henry',
+  sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' }
+{ type: 'factfamreport' }
+18 Feb 23:37:53 - Client 8648318229243159 disconnected
+18 Feb 23:37:55 - Initializing client with transport "websocket"
+18 Feb 23:37:55 - Client 8120603368151933 connected
+string!
+{ type: 'login',
+  user: 'Henry',
+  sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' }
+{ type: 'factfamreport' }
+18 Feb 23:38:23 - Client 8120603368151933 disconnected
+18 Feb 23:38:24 - Initializing client with transport "websocket"
+18 Feb 23:38:24 - Client 7054357964079827 connected
+string!
+{ type: 'login',
+  user: 'Henry',
+  sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' }
+{ type: 'factfamreport' }
+{ type: 'factfam',
+  correct: true,
+  index: 3,
+  current: 0,
+  value: 0 }
+{ type: 'factfam',
+  correct: true,
+  index: 7,
+  current: 0,
+  value: 0 }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     lastactive: Fri, 18 Feb 2011 23:37:27 GMT,
+     client: 
+      { listener: [Object],
+        options: [Object],
+        connections: 1,
+        _open: true,
+        _heartbeats: 1,
+        connected: true,
+        upgradeHead: <Buffer 88 9a c6 a5 5d 6d 24 12>,
+        request: [Object],
+        response: undefined,
+        connection: [Object],
+        data: '',
+        sessionId: '7054357964079827',
+        handshaked: true,
+        _writeQueue: [],
+        _events: [Object],
+        _heartbeatInterval: [Object],
+        user: 'Henry',
+        factfam: [Object],
+        _heartbeatTimeout: [Object] } },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     lastactive: Fri, 18 Feb 2011 23:38:23 GMT },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+{ type: 'factfam',
+  correct: true,
+  index: 2,
+  current: 3,
+  value: 3 }
+{ type: 'factfam',
+  correct: true,
+  index: 1,
+  current: 3,
+  value: 3 }
+{ type: 'factfam',
+  correct: true,
+  index: 4,
+  current: 3,
+  value: 3 }
+{ type: 'factfam',
+  correct: true,
+  index: 5,
+  current: 3,
+  value: 3 }
+{ type: 'factfam',
+  correct: true,
+  index: 8,
+  current: 3,
+  value: 3 }
+{ type: 'factfam',
+  correct: true,
+  index: 6,
+  current: 3,
+  value: 3 }
+{ type: 'factfam',
+  correct: true,
+  index: 0,
+  current: 1,
+  value: 1 }
+{ type: 'factfam',
+  correct: false,
+  index: 0,
+  current: 1,
+  value: 2 }
+{ type: 'factfamreport' }
+18 Feb 23:39:36 - Client 7054357964079827 disconnected
+18 Feb 23:39:37 - Initializing client with transport "websocket"
+18 Feb 23:39:37 - Client 20087574236094952 connected
+string!
+{ type: 'login',
+  user: 'Henry',
+  sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' }
+{ type: 'factfamreport' }
+18 Feb 23:39:52 - Client 20087574236094952 disconnected
+18 Feb 23:39:53 - Initializing client with transport "websocket"
+18 Feb 23:39:53 - Client 44137905165553093 connected
+string!
+{ type: 'factfamreport' }
+18 Feb 23:40:07 - Client 44137905165553093 disconnected
+18 Feb 23:40:08 - Initializing client with transport "websocket"
+18 Feb 23:40:08 - Client 11022085836157203 connected
+string!
+{ type: 'factfamreport' }
+18 Feb 23:41:01 - Client 11022085836157203 disconnected
+18 Feb 23:41:02 - Initializing client with transport "websocket"
+18 Feb 23:41:02 - Client 6775507319252938 connected
+string!
+{ type: 'factfamreport' }
+18 Feb 23:41:23 - Client 6775507319252938 disconnected
+18 Feb 23:41:24 - Initializing client with transport "websocket"
+18 Feb 23:41:24 - Client 07776270085014403 connected
+string!
+{ type: 'factfamreport' }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     lastactive: Fri, 18 Feb 2011 23:39:36 GMT },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     lastactive: Fri, 18 Feb 2011 23:38:23 GMT },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+18 Feb 23:42:11 - Client 07776270085014403 disconnected
+18 Feb 23:42:12 - Initializing client with transport "websocket"
+18 Feb 23:42:12 - Client 18369258916936815 connected
+string!
+{ type: 'factfamreport' }
+18 Feb 23:42:25 - Client 18369258916936815 disconnected
+18 Feb 23:42:27 - Initializing client with transport "websocket"
+18 Feb 23:42:27 - Client 07191165210679173 connected
+string!
+{ type: 'factfamreport' }
+18 Feb 23:44:10 - Client 07191165210679173 disconnected
+18 Feb 23:44:11 - Initializing client with transport "websocket"
+18 Feb 23:44:11 - Client 28460028022527695 connected
+string!
+{ type: 'factfamreport' }
+{ type: 'boxstart',
+  row: 0,
+  col: 0,
+  width: 374.70000000000005,
+  rand: 0.4896692375186831,
+  xsnap: 500,
+  ysnap: 125,
+  place: 2 }
+{ type: 'boxup',
+  remove: true,
+  rand: 0.4896692375186831 }
+{ type: 'boxstart',
+  row: 0,
+  col: 0,
+  width: 374.70000000000005,
+  rand: 0.45757539849728346,
+  xsnap: 500,
+  ysnap: 125,
+  place: 2 }
+{ type: 'boxup',
+  remove: true,
+  rand: 0.45757539849728346 }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     lastactive: Fri, 18 Feb 2011 23:39:36 GMT },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     lastactive: Fri, 18 Feb 2011 23:38:23 GMT },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+All sessions are saved on disk now.
+18 Feb 23:45:39 - Client 28460028022527695 disconnected
+18 Feb 23:45:40 - Initializing client with transport "websocket"
+18 Feb 23:45:40 - Client 046887032222002745 connected
+string!
+{ type: 'factfamreport' }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: 
+   { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C',
+     lastactive: Fri, 18 Feb 2011 23:39:36 GMT },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+All sessions are saved on disk now.
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+{ type: 'factfam',
+  correct: true,
+  index: 0,
+  current: 7,
+  value: 7 }
+{ type: 'factfamreport' }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+18 Feb 23:51:29 - Client 046887032222002745 disconnected
+18 Feb 23:51:30 - Initializing client with transport "websocket"
+18 Feb 23:51:30 - Client 009141768794506788 connected
+string!
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+19 Feb 00:01:39 - Initializing client with transport "websocket"
+19 Feb 00:01:39 - Client 30450083361938596 connected
+string!
+19 Feb 00:01:41 - Client 009141768794506788 disconnected
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+19 Feb 00:05:50 - Initializing client with transport "websocket"
+19 Feb 00:05:50 - Client 664027405437082 connected
+string!
+19 Feb 00:05:53 - Client 30450083361938596 disconnected
+{ type: 'factfamreport' }
+19 Feb 00:08:02 - Initializing client with transport "xhr-multipart"
+19 Feb 00:08:02 - Client 7708802986890078 connected
+19 Feb 00:08:04 - Couldnt find client with session id "7708802986890078"
+19 Feb 00:08:04 - Couldnt find client with session id "7708802986890078"
+19 Feb 00:08:04 - Couldnt find client with session id "7708802986890078"
+19 Feb 00:08:04 - Couldnt find client with session id "7708802986890078"
+19 Feb 00:08:05 - Client 7708802986890078 disconnected
+19 Feb 00:08:05 - Initializing client with transport "websocket"
+19 Feb 00:08:05 - Client 27614526031538844 connected
+19 Feb 00:08:06 - Initializing client with transport "xhr-multipart"
+19 Feb 00:08:06 - Client 25669650943018496 connected
+19 Feb 00:08:06 - Couldnt find client with session id "25669650943018496"
+19 Feb 00:08:06 - Client 25669650943018496 disconnected
+19 Feb 00:08:06 - Initializing client with transport "xhr-multipart"
+19 Feb 00:08:06 - Client 10860327258706093 connected
+19 Feb 00:08:07 - Couldnt find client with session id "10860327258706093"
+19 Feb 00:08:07 - Client 10860327258706093 disconnected
+19 Feb 00:08:07 - Initializing client with transport "flashsocket"
+19 Feb 00:08:07 - Client 8328226734884083 connected
+19 Feb 00:08:07 - Initializing client with transport "flashsocket"
+19 Feb 00:08:07 - Client 23396020755171776 connected
+19 Feb 00:08:07 - Data incorrectly framed by UA. Dropping connection
+19 Feb 00:08:07 - Client 23396020755171776 disconnected
+19 Feb 00:08:07 - Initializing client with transport "flashsocket"
+19 Feb 00:08:07 - Client 28895676298998296 connected
+string!
+string!
+string!
+{ type: 'factfamreport' }
+{ type: 'factfam',
+  correct: true,
+  index: 0,
+  current: 5,
+  value: 5 }
+{ type: 'factfam',
+  correct: false,
+  index: 1,
+  current: 5,
+  value: 0 }
+{ type: 'factfamreport' }
+19 Feb 00:08:22 - Client 28895676298998296 disconnected
+19 Feb 00:08:27 - Initializing client with transport "xhr-multipart"
+19 Feb 00:08:27 - Client 4237023573368788 connected
+string!
+19 Feb 00:08:36 - Client 4237023573368788 disconnected
+19 Feb 00:08:36 - Initializing client with transport "xhr-multipart"
+19 Feb 00:08:36 - Client 9196067026350647 connected
+string!
+19 Feb 00:08:37 - Initializing client with transport "htmlfile"
+19 Feb 00:08:37 - Client 6570234673563391 connected
+19 Feb 00:08:42 - Client 6570234673563391 disconnected
+19 Feb 00:08:42 - Initializing client with transport "xhr-polling"
+19 Feb 00:08:42 - Client 8218062478117645 connected
+clean up
+{ Henry: { sid: 'BCD85C1C-7370-49BA-81BD-1095BB03B78C' },
+  'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+clean up
+{ 'mac chrome': undefined,
+  Mooka: undefined,
+  iPod: undefined,
+  Ipod: undefined,
+  henk: undefined,
+  Gun: undefined,
+  ie9: undefined,
+  Start: undefined,
+  freddie: undefined,
+  htnk: undefined,
+  dsf: undefined,
+  hat: { sid: '5DF8E7B8-2911-4A0B-8924-C8B6F2B3787E' } }
+string!
+{ type: 'login',
+  user: 'ie9',
+  sid: 'CE04266B-042C-458B-9BCA-AE5940A62DF7' }
+{ type: 'factfamreport' }
+19 Feb 00:08:46 - Couldnt find client with session id "9196067026350647"
+19 Feb 00:08:49 - Couldnt find client with session id "9196067026350647"
+{ type: 'factfam',
+  correct: true,
+  index: 1,
+  current: 4,
+  value: 4 }
+{ type: 'factfam',
+  correct: false,
+  index: 4,
+  current: 4,
+  value: 5 }
+{ type: 'factfamreport' }
+{ type: 'factfam',
+  correct: false,
+  index: 5,
+  current: 5,
+  value: 0 }
+{ type: 'factfamreport' }
+{ type: 'factfam',
+  correct: true,
+  index: 4,
+  current: 0,
+  value: 0 }
+{ type: 'factfamreport' }
+19 Feb 00:09:43 - Couldnt find client with session id "8218062478117645"
+19 Feb 00:09:49 - Couldnt find client with session id "8218062478117645"
+19 Feb 00:09:49 - Couldnt find client with session id "8218062478117645"
+19 Feb 00:09:50 - Initializing client with transport "xhr-polling"
+19 Feb 00:09:50 - Client 8823592069093138 connected
+19 Feb 00:09:50 - Couldnt find client with session id "8823592069093138"
+19 Feb 00:09:50 - Couldnt find client with session id "8823592069093138"
+19 Feb 00:09:50 - Initializing client with transport "xhr-polling"
+19 Feb 00:09:50 - Client 443843916291371 connected
+19 Feb 00:09:50 - Couldnt find client with session id "443843916291371"
+19 Feb 00:09:50 - Couldnt find client with session id "443843916291371"
+19 Feb 00:09:51 - Initializing client with transport "xhr-polling"
+19 Feb 00:09:51 - Client 2326498196925968 connected
+19 Feb 00:09:51 - Couldnt find client with session id "2326498196925968"
+19 Feb 00:09:51 - Couldnt find client with session id "2326498196925968"
+19 Feb 00:09:51 - Couldnt find client with session id "2326498196925968"
+19 Feb 00:09:52 - Initializing client with transport "xhr-polling"
+19 Feb 00:09:52 - Client 07493536663241684 connected
+19 Feb 00:09:52 - Couldnt find client with session id "07493536663241684"
+19 Feb 00:09:52 - Couldnt find client with session id "07493536663241684"
+19 Feb 00:09:52 - Couldnt find client with session id "07493536663241684"
+19 Feb 00:09:52 - Initializing client with transport "xhr-polling"
+19 Feb 00:09:52 - Client 056172307347878814 connected
+19 Feb 00:09:52 - Couldnt find client with session id "056172307347878814"
+19 Feb 00:09:52 - Couldnt find client with session id "056172307347878814"
+19 Feb 00:09:53 - Couldnt find client with session id "056172307347878814"
+19 Feb 00:09:53 - Initializing client with transport "xhr-polling"
+19 Feb 00:09:53 - Client 7104706431273371 connected
+19 Feb 00:09:53 - Couldnt find client with session id "7104706431273371"
+19 Feb 00:09:59 - Client 2326498196925968 disconnected
+19 Feb 00:10:00 - Client 07493536663241684 disconnected
+19 Feb 00:10:00 - Client 056172307347878814 disconnected
+19 Feb 00:10:11 - Client 8218062478117645 disconnected
+19 Feb 00:10:18 - Initializing client with transport "xhr-polling"
+19 Feb 00:10:18 - Client 2035049081314355 connected
+19 Feb 00:10:18 - Couldnt find client with session id "2035049081314355"
+19 Feb 00:10:18 - Couldnt find client with session id "2035049081314355"
+19 Feb 00:10:18 - Couldnt find client with session id "2035049081314355"
+19 Feb 00:10:18 - Client 8823592069093138 disconnected
+19 Feb 00:10:18 - Initializing client with transport "xhr-polling"
+19 Feb 00:10:18 - Client 7361266938969493 connected
+19 Feb 00:10:18 - Couldnt find client with session id "7361266938969493"
+19 Feb 00:10:18 - Couldnt find client with session id "7361266938969493"
+19 Feb 00:10:18 - Client 443843916291371 disconnected
+19 Feb 00:10:19 - Initializing client with transport "xhr-polling"
+19 Feb 00:10:19 - Client 7420664350502193 connected
+19 Feb 00:10:19 - Couldnt find client with session id "7420664350502193"
+19 Feb 00:10:20 - Initializing client with transport "xhr-polling"
+19 Feb 00:10:20 - Client 7332064602524042 connected
+19 Feb 00:10:20 - Couldnt find client with session id "7332064602524042"
+19 Feb 00:10:20 - Couldnt find client with session id "7332064602524042"
+19 Feb 00:10:20 - Initializing client with transport "xhr-polling"
+19 Feb 00:10:20 - Client 08875913545489311 connected
+19 Feb 00:10:20 - Couldnt find client with session id "08875913545489311"
+19 Feb 00:10:21 - Initializing client with transport "xhr-polling"
+19 Feb 00:10:21 - Client 9180634038057178 connected
+19 Feb 00:10:21 - Couldnt find client with session id "9180634038057178"
+string!
+19 Feb 00:10:21 - Couldnt find client with session id "9180634038057178"
+19 Feb 00:10:21 - Couldnt find client with session id "9180634038057178"
+19 Feb 00:10:23 - Initializing client with transport "xhr-polling"
+19 Feb 00:10:23 - Client 29310404788702726 connected
+19 Feb 00:10:23 - Couldnt find client with session id "29310404788702726"
+19 Feb 00:10:23 - Couldnt find client with session id "29310404788702726"
+19 Feb 00:10:23 - Couldnt find client with session id "29310404788702726"
+19 Feb 00:10:23 - Couldnt find client with session id "29310404788702726"
+19 Feb 00:10:23 - Client 9196067026350647 disconnected
+19 Feb 00:10:23 - Initializing client with transport "flashsocket"
+19 Feb 00:10:23 - Client 5152515424415469 connected
+19 Feb 00:10:24 - Initializing client with transport "xhr-polling"
+19 Feb 00:10:24 - Client 6810862766578794 connected
+19 Feb 00:10:24 - Couldnt find client with session id "6810862766578794"
+19 Feb 00:10:24 - Couldnt find client with session id "6810862766578794"
+19 Feb 00:10:24 - Couldnt find client with session id "6810862766578794"
+string!
+19 Feb 00:10:25 - Initializing client with transport "xhr-polling"
+19 Feb 00:10:25 - Client 47786009195260704 connected
+19 Feb 00:10:25 - Couldnt find client with session id "47786009195260704"
+string!
+19 Feb 00:10:26 - Client 2035049081314355 disconnected
+19 Feb 00:10:26 - Client 7361266938969493 disconnected
+19 Feb 00:10:28 - Client 7332064602524042 disconnected
+{ type: 'factfam',
+  correct: true,
+  index: 2,
+  current: 1,
+  value: 1 }
+19 Feb 00:10:31 - Client 29310404788702726 disconnected
+19 Feb 00:10:32 - Client 6810862766578794 disconnected
+{ type: 'factfamreport' }
+19 Feb 00:10:32 - Couldnt find client with session id "47786009195260704"
+19 Feb 00:10:34 - Couldnt find client with session id "5152515424415469"
+19 Feb 00:10:35 - Couldnt find client with session id "47786009195260704"
+19 Feb 00:10:35 - Couldnt find client with session id "47786009195260704"
+19 Feb 00:10:36 - Initializing client with transport "xhr-polling"
+19 Feb 00:10:36 - Client 6357197645120323 connected
+string!
+{ type: 'factfamreport' }
+19 Feb 00:10:36 - Couldnt find client with session id "6357197645120323"
+19 Feb 00:10:36 - Couldnt find client with session id "6357197645120323"
+19 Feb 00:10:36 - Couldnt find client with session id "6357197645120323"
+19 Feb 00:10:36 - Couldnt find client with session id "6357197645120323"
+19 Feb 00:10:41 - Couldnt find client with session id "6357197645120323"
+19 Feb 00:10:41 - Client 7104706431273371 disconnected
+19 Feb 00:10:41 - Client 5152515424415469 disconnected
+19 Feb 00:10:42 - Initializing client with transport "flashsocket"
+19 Feb 00:10:42 - Client 21764673851430416 connected
+19 Feb 00:10:42 - Initializing client with transport "xhr-polling"
+19 Feb 00:10:42 - Client 7994814403355122 connected
+19 Feb 00:10:43 - Couldnt find client with session id "7994814403355122"
+19 Feb 00:10:43 - Couldnt find client with session id "7994814403355122"
+string!
+19 Feb 00:10:46 - Initializing client with transport "xhr-polling"
+19 Feb 00:10:46 - Client 5312764984555542 connected
+19 Feb 00:10:46 - Couldnt find client with session id "5312764984555542"
+{ type: 'factfam',
+  correct: false,
+  index: 4,
+  current: 1,
+  value: 3 }
+{ type: 'factfamreport' }
+19 Feb 00:10:46 - Couldnt find client with session id "5312764984555542"
+19 Feb 00:10:47 - Client 7420664350502193 disconnected
+string!
+19 Feb 00:10:48 - Couldnt find client with session id "5312764984555542"
+19 Feb 00:10:48 - Client 08875913545489311 disconnected
+19 Feb 00:10:49 - Client 9180634038057178 disconnected
+19 Feb 00:10:50 - Client 7994814403355122 disconnected
+19 Feb 00:10:52 - Initializing client with transport "websocket"
+19 Feb 00:10:52 - Client 042751041473820806 connected
+string!
+19 Feb 00:10:54 - Client 664027405437082 disconnected
+19 Feb 00:11:00 - Client 47786009195260704 disconnected
+19 Feb 00:11:05 - Client 6357197645120323 disconnected
+19 Feb 00:11:30 - Couldnt find client with session id "5312764984555542"
+19 Feb 00:11:30 - Couldnt find client with session id "5312764984555542"
+19 Feb 00:11:30 - Couldnt find client with session id "5312764984555542"
+19 Feb 00:11:30 - Couldnt find client with session id "5312764984555542"
+19 Feb 00:11:30 - Couldnt find client with session id "5312764984555542"
+19 Feb 00:11:30 - Couldnt find client with session id "5312764984555542"
+19 Feb 00:11:30 - Couldnt find client with session id "5312764984555542"
